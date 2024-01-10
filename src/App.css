@@ -1,0 +1,29 @@
+form {
+  margin: 20px;
+}
+
+label {
+  margin-right: 20px;
+  font-weight:bold;
+}
+input,
+select {
+  margin-left: 5px; 
+  width: 100px;
+}
+.customer-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.customer-table th,
+.customer-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.customer-table th {
+  background-color: #f2f2f2;
+}
